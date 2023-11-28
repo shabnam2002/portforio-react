@@ -636,6 +636,23 @@ flex-direction: column;
       width: 418px;
 
 }
+  .credential-sidebar{
+  width: 100%;
+      position:relative;
+
+}
+.credential-content{
+  width: 100%;
+}
+.credential{
+  flex-direction: column;
+}
+.contact-main{
+  flex-direction: column;
+}
+.form{
+  width: 100%;
+}
 }
 
 
